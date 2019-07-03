@@ -1,4 +1,4 @@
-DAN-Domestic Appliance Network#
+DAN-Domestic Appliance Network
 
 
 The website that I have created is my first milestone project at the Code Institute. This website was created for my Father’s future local business. My father Daniel is an electrician that specializes in kitchen appliance repair. I thought it would be a great idea to build him a website in order to promote his services that will be available across Dublin area.
