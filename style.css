@@ -7,20 +7,18 @@
 /*-----------background-----------*/
 
 .callout-container {
-    height: 100vh;
+ 
 
-    background: url(https://i.pinimg.com/564x/eb/b8/2b/ebb82b968285a4fcb3542c1e7f12f2de.jpg);
-    -webkit-background-size: cover;
+    background: url(https://i.pinimg.com/564x/cd/ba/aa/cdbaaa7fb8f201ebf291ccb854a77ae5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     -moz-background-size: cover;
+    -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-attachment: fixed;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: inherit;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    padding-top: 100px;
 }
 
 .opaque-overlay {
