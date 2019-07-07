@@ -98,6 +98,7 @@
     }
 }
 
+
 .fas {
     font-size: 50px;
     padding-bottom: 20px;
@@ -106,12 +107,22 @@
 
 /*-----------About Us-----------*/
 
+.about-position {
+     display: inline-table;
+     padding-left: 50px;
+}
+
+
+
+
 .img-about {
+    vertical-align: middle;
+    border-style: none;
     height: auto;
     border-radius: 25px;
-    padding: 15px;
-    width: 100%;
+    width: 30%;
 }
+
 
 
 .bg-about {
@@ -122,7 +133,7 @@
     text-align: center;
     padding-top: 50px;
     font-size: 30px;
-
+   
 }
 
 .map {
