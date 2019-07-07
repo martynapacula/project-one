@@ -217,19 +217,48 @@
 
 /*-----------Contact Us-----------*/
 
-.contact {
-    background: url(https://media.istockphoto.com/photos/woman-choosing-program-on-washing-machine-picture-id668391976?s=2048x2048)
+
+
+ .contact-heading {
+  font-weight: 600;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  color: #edf302;
+ }
+
+ .center-form {
+  padding-top: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+ }
+
+ button[type='submit'] {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #fafafa;
+  background-color: #007bff;
+ }
+
+ .uppercase {
+  text-transform: uppercase;
+ }
+ 
+ .centered-contact {
+ padding-top: 30px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }
+
+.form-control {
+width: 30%;
 }
 
-.background-contact {
-    background-attachment: fixed;
-    width: 100%;
-    height: 300px;
-
-}
 
 
 /*-----------Footer-----------*/
+
+.container {
+    alignment-baseline: central;
+}
 
 footer {
     border-color: transparent;
