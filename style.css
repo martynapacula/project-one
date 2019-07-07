@@ -9,7 +9,7 @@
 .callout-container {
  
 
-    background: url(https://i.pinimg.com/564x/cd/ba/aa/cdbaaa7fb8f201ebf291ccb854a77ae5.jpg);
+    background: url(https://i.pinimg.com/564x/9a/f7/3f/9af73f156415d8d1b056472e8aceb57c.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -moz-background-size: cover;
@@ -19,6 +19,7 @@
     width: -webkit-fill-available;
     height: -webkit-fill-available;
     padding-top: 100px;
+    background-attachment:fixed;
 }
 
 .opaque-overlay {
@@ -258,6 +259,7 @@ width: 30%;
     min-height: 100%;
  background-size: cover;
  background-position: bottom;
+ background-attachment:fixed;
  
 }
     
@@ -265,8 +267,12 @@ width: 30%;
 
 /*-----------Footer-----------*/
 
-.container {
-    alignment-baseline: central;
+.footer-back{
+    background-color:#c7daec;
+}
+
+.container-footer {
+  alignment-baseline: middle;
 }
 
 footer {
